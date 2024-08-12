@@ -70,9 +70,9 @@ Defining functions in interfaces is like setting up a meeting agenda.
 **Description**: Index signatures allow for defining properties with dynamic names.
 **Syntax**:
   ```typescript
-    interface StringDictionary {
-        [key: string]: number;
-    }
+  interface StringDictionary {
+    [key: string]: number;
+  }
   ```
 Index signatures are like having a generic keychain. You can add as many keys as you like.
 
@@ -80,12 +80,12 @@ Index signatures are like having a generic keychain. You can add as many keys as
 **Description**: TypeScript allows for merging multiple interfaces with the same name.
 **Syntax**:
   ```typescript
-    interface Animal {
-        name: string;
-    }
-    interface Animal {
-        age: number;
-    }
+  interface Animal {
+    name: string;
+  }
+  interface Animal {
+    age: number;
+  }
   ```
 Merging interfaces is like combining your favorite songs into one epic playlist. 
 
