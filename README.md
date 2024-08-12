@@ -1,7 +1,5 @@
 # TypeScript Interfaces Cheat Sheet
 
-# TypeScript Interfaces Cheat Sheet
-
 ## Basic Interface Definition
 **Description**: An interface defines the shape of an object. It’s like a blueprint for creating objects. 
 **Syntax**:
