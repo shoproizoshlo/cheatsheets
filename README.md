@@ -86,7 +86,7 @@ Index signatures are like having a generic keychain. You can add as many keys as
     interface Animal {
         age: number;
     }
-    ```
+  ```
 Merging interfaces is like combining your favorite songs into one epic playlist. 
 
 Interfaces in TypeScript are versatile tools for defining and enforcing object shapes. They can be extended, merged, and used to ensure that classes and functions adhere to specific structures.
