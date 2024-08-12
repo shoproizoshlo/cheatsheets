@@ -5,8 +5,8 @@
 **Syntax**:
   ```typescript
   interface Person {
-      name: string;
-      age: number;
+    name: string;
+    age: number;
   }
   ```
 Think of an interface as a recipe. It tells you what ingredients you need, but not how to cook them!
